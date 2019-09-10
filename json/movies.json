@@ -1,0 +1,36 @@
+[ {
+  "movieTitle" : "Avenger",
+  "ratingMovie" : "9.3",
+  "typesMovie" : "New Release",
+  "yearMovie" : 2018,
+  "runtimeMovie" : 320,
+  "idmovie" : 1
+}, {
+  "movieTitle" : "Deadpool",
+  "ratingMovie" : "8.6",
+  "typesMovie" : "Regular films",
+  "yearMovie" : 2016,
+  "runtimeMovie" : 108,
+  "idmovie" : 2
+}, {
+  "movieTitle" : "We are the Millers",
+  "ratingMovie" : "7.0",
+  "typesMovie" : "Regular films",
+  "yearMovie" : 2013,
+  "runtimeMovie" : 118,
+  "idmovie" : 3
+}, {
+  "movieTitle" : "Dog's life",
+  "ratingMovie" : "7.4",
+  "typesMovie" : "New releases",
+  "yearMovie" : 2019,
+  "runtimeMovie" : 109,
+  "idmovie" : 4
+}, {
+  "movieTitle" : "Pieces",
+  "ratingMovie" : "6.2",
+  "typesMovie" : "Old films",
+  "yearMovie" : 1982,
+  "runtimeMovie" : 85,
+  "idmovie" : 5
+} ]

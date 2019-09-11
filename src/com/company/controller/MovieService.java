@@ -116,7 +116,7 @@ public class MovieService {
     // that method is change type films
     public void changeMovieType(){
         try {
-            System.out.println("Please enter index for delete movie");
+            System.out.println("Please enter index for change movie");
             int index = scan.nextInt();
             System.out.println("Please enter changed value for type movie");
             String changed = scan.nextLine();
